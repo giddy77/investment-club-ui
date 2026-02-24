@@ -13,3 +13,22 @@ body {
     object-fit: cover;
     flex-shrink: 0;
 }
+
+.stat-card {
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.pink {
+    background-color: #f7c6c7;
+}
+
+.green {
+    background-color: #d9f0c1;
+}
+
+.yellow {
+    background-color: #f8e1b0;
+}
